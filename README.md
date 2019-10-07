@@ -30,3 +30,6 @@ useful info
 - What is a controller?
 
 - What is a model?
+
+![alt text][wiki]
+[wiki]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/MVC_Scheme_ru.png/220px-MVC_Scheme_ru.png "Architecture"
